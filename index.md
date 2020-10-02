@@ -1,6 +1,13 @@
-## Eduria
+## Download
 
-Softwares educacionais podem ser instrumentos transformadores no processo de ensino e aprendizagem, dentre esses softwares existem os Sistemas Tutores Inteligentes, STIs são softwares educacionais aperfeiçoados com técnicas de inteligência artificial para proporcionar um ensino mais adaptável e exclusivo ao aluno. O desenvolvimento de software trás dificuldades arquiteturais à medida que cresce e essas dificuldades levaram ao padrão de microsserviços. Entretanto, ainda não foram encontrados registros de STIs construídos em uma arquitetura de microsserviços. Visto isso, foi buscando realizar um apoio na construção e experimentação de novos STIs por terceiros nessa arquitetura. Foi realizado o desenvolvimento de dois microsserviços em forma de abstrações para módulos de um STI. Os microsserviços desenvolvidos apresentaram o comportamento esperado tanto em termos de integração, como em regras de negócio de ensino e análise de nível de aluno.
+<dl>
+<dt>Eduria-core</dt>
+<dd>[Clone ou download](https://github.com/vanderloureiro/eduria-core).</dd>
+<dt>Eduria-decision-tree</dt>
+<dd>[Clone ou download](https://github.com/vanderloureiro/eduria-decision-tree).</dd>
+<dt>Eduria-test</dt>
+<dd>[Clone ou download](https://github.com/vanderloureiro/eduria-test).</dd>
+</dl>
 
 ### Integração
 
@@ -32,9 +39,9 @@ O JSON de resposta é mais simples que o primeiro, tendo apelas dois atributos:
 }
 ```
 
-### Jekyll Themes
+### Motivação
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vanderloureiro/eduria/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Softwares educacionais podem ser instrumentos transformadores no processo de ensino e aprendizagem, dentre esses softwares existem os Sistemas Tutores Inteligentes, STIs são softwares educacionais aperfeiçoados com técnicas de inteligência artificial para proporcionar um ensino mais adaptável e exclusivo ao aluno. O desenvolvimento de software trás dificuldades arquiteturais à medida que cresce e essas dificuldades levaram ao padrão de microsserviços. Entretanto, ainda não foram encontrados registros de STIs construídos em uma arquitetura de microsserviços. Visto isso, foi buscando realizar um apoio na construção e experimentação de novos STIs por terceiros nessa arquitetura. Foi realizado o desenvolvimento de dois microsserviços em forma de abstrações para módulos de um STI. Os microsserviços desenvolvidos apresentaram o comportamento esperado tanto em termos de integração, como em regras de negócio de ensino e análise de nível de aluno.
 
 ### Suporte ou Contato
 
