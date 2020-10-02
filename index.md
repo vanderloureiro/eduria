@@ -63,11 +63,11 @@ mvn spring-boot:run
 | Serviço       | Porta  | Swagger                                |
 |:--------------|:-------|:---------------------------------------|
 | core          | 3332   | http://localhost:3332/swagger-ui.html  |
-| decision-tree | 3334   | http://localhost:3332/swagger-ui.html  |
-| test          | 3336   | http://localhost:3332/swagger-ui.html  |
+| decision-tree | 3336   | http://localhost:3332/swagger-ui.html  |
+| test          | 3334   | http://localhost:3332/swagger-ui.html  |
 
 
-### Entidades do Eduria-core
+### Entidades Eduria-core
 
 ![Branching](https://raw.githubusercontent.com/vanderloureiro/eduria/gh-pages/eduria-core.png)
 
