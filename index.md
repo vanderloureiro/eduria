@@ -1,12 +1,24 @@
-## Download
+# Download
+
+Realize o download de conheça o projeto
+
+[Eduria-core](https://github.com/vanderloureiro/eduria-core)
+[Eduria-decision-tree](https://github.com/vanderloureiro/eduria-decision-tree)
+[Eduria-test](https://github.com/vanderloureiro/eduria-test)
 
 <dl>
 <dt>Eduria-core</dt>
-<dd>[Clone ou download](https://github.com/vanderloureiro/eduria-core).</dd>
+<dd>
+    [Clone ou download](https://github.com/vanderloureiro/eduria-core).
+</dd>
 <dt>Eduria-decision-tree</dt>
-<dd>[Clone ou download](https://github.com/vanderloureiro/eduria-decision-tree).</dd>
+<dd>
+    [Clone ou download](https://github.com/vanderloureiro/eduria-decision-tree).
+</dd>
 <dt>Eduria-test</dt>
-<dd>[Clone ou download](https://github.com/vanderloureiro/eduria-test).</dd>
+<dd>
+    [Clone ou download](https://github.com/vanderloureiro/eduria-test).
+</dd>
 </dl>
 
 ### Integração
