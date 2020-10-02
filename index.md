@@ -1,25 +1,12 @@
 # Download
 
-Realize o download de conheça o projeto
+Projeto Eduria busca auxiliar o desenvolvimento de novos STIs em arquitetura de microsserviços.
 
-[Eduria-core](https://github.com/vanderloureiro/eduria-core)
-[Eduria-decision-tree](https://github.com/vanderloureiro/eduria-decision-tree)
-[Eduria-test](https://github.com/vanderloureiro/eduria-test)
+Realize o download e conheça o projeto:
 
-<dl>
-<dt>Eduria-core</dt>
-<dd>
-    [Clone ou download](https://github.com/vanderloureiro/eduria-core).
-</dd>
-<dt>Eduria-decision-tree</dt>
-<dd>
-    [Clone ou download](https://github.com/vanderloureiro/eduria-decision-tree).
-</dd>
-<dt>Eduria-test</dt>
-<dd>
-    [Clone ou download](https://github.com/vanderloureiro/eduria-test).
-</dd>
-</dl>
+*   [Eduria-core](https://github.com/vanderloureiro/eduria-core)
+*   [Eduria-decision-tree](https://github.com/vanderloureiro/eduria-decision-tree)
+*   [Eduria-test](https://github.com/vanderloureiro/eduria-test)
 
 ### Integração
 
