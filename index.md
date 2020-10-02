@@ -1,8 +1,6 @@
 ## Eduria
 
-You can use the [editor on GitHub](https://github.com/vanderloureiro/eduria/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Softwares educacionais podem ser instrumentos transformadores no processo de ensino e aprendizagem, dentre esses softwares existem os Sistemas Tutores Inteligentes, STIs são softwares educacionais aperfeiçoados com técnicas de inteligência artificial para proporcionar um ensino mais adaptável e exclusivo ao aluno. O desenvolvimento de software trás dificuldades arquiteturais à medida que cresce e essas dificuldades levaram ao padrão de microsserviços. Entretanto, ainda não foram encontrados registros de STIs construídos em uma arquitetura de microsserviços. Visto isso, foi buscando realizar um apoio na construção e experimentação de novos STIs por terceiros nessa arquitetura. Foi realizado o desenvolvimento de dois microsserviços em forma de abstrações para módulos de um STI. Os microsserviços desenvolvidos apresentaram o comportamento esperado tanto em termos de integração, como em regras de negócio de ensino e análise de nível de aluno.
 
 ### Markdown
 
@@ -30,7 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Integração
 
-Para integrar com a aplicação principal, o serviço de inteligência deve dispor de um \textit{endpoint} com o verbo POST que receba um JSON e retorne um segundo JSON com \textit{StatusCode} da requisição com código \textit{200 OK}. O caminho para esse \textit{endpoint} deve ser informado no cadastro do curso.
+Para integrar com a aplicação principal, o serviço de inteligência deve dispor de um _Italic_ endpoint _Italic_ com o verbo POST que receba um JSON e retorne um segundo JSON com _Italic_ StatusCode _Italic_ da requisição com código _Italic_ 200 OK _Italic_. O caminho para esse _Italic_ endpoint _Italic_ deve ser informado no cadastro do curso.
 
 ```
 {
