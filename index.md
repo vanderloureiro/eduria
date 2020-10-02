@@ -69,7 +69,7 @@ mvn spring-boot:run
 
 ### Entidades do Eduria-core
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://raw.githubusercontent.com/vanderloureiro/eduria/gh-pages/eduria-core.png)
 
 ### Suporte ou Contato
 
