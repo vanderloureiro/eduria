@@ -44,7 +44,7 @@ Softwares educacionais podem ser instrumentos transformadores no processo de ens
 
 Todos são projetos Spring com dependências descritas no arquivo pom.xml
 
-Crie um banco de dados e informe os dados no arquivo aplication-dev.properties em caso de ambiente de desenvolvimento, application-prod.properties se em caso de ambiente de produção.
+Crie um banco de dados e informe os dados no arquivo aplication-dev.properties em caso de ambiente de desenvolvimento ou application-prod.properties em caso de ambiente de produção.
 
 Execute no terminal dentro da pasta do projeto:
 ```
