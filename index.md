@@ -1,8 +1,6 @@
 # Download
 
-Projeto Eduria busca auxiliar o desenvolvimento de novos STIs em arquitetura de microsserviços.
-
-Realize o download e conheça o projeto:
+Projeto Eduria busca auxiliar o desenvolvimento de novos STIs em arquitetura de microsserviços. Realize o download e conheça:
 
 *   [Eduria-core](https://github.com/vanderloureiro/eduria-core)
 *   [Eduria-decision-tree](https://github.com/vanderloureiro/eduria-decision-tree)
